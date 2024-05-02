@@ -21,7 +21,7 @@ const reviews = [
   {
     id: 2,
     img: "./imgs/Murray.jpg",
-    name: "Andry Murray",
+    name: "Andy Murray",
     job: "Tennis Player from",
     about:
       "Andy Murray is a British professional tennis player. He was ranked world No. 1 in singles by the Association of Tennis Professionals (ATP) for 41 weeks, and finished as the year-end No. 1 in 2016. Murray has won three Grand Slam singles titles.",
@@ -39,7 +39,7 @@ const reviews = [
   {
     id: 4,
     img: "./imgs/alcaraz.jpg",
-    name: "carlos Alcaraz",
+    name: "Carlos Alcaraz",
     job: "Tennis Player from",
     about:
       "Carlos Alcaraz Garfia is a Spanish professional tennis player. He has been ranked as high as world No. 1 in men's singles by the Association of Tennis Professionals.",
